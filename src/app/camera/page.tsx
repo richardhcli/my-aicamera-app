@@ -11,7 +11,7 @@ export default async function Home() {
       <h1 className="text-3xl font-bold mb-6 text-foreground">Raspberry Pi</h1>
 
       <img
-        src="/py/image" //image
+        src="/py/mjpeg" //image
         alt="Raspberry Pi"
         className="w-4/5"
        />
