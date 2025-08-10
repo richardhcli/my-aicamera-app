@@ -34,7 +34,7 @@ export default function CameraStream() {
   return (
     <Card className="w-full max-w-2xl mx-auto">
       <CardHeader>
-        <CardTitle>JPEG Stream</CardTitle>
+        <CardTitle>JPEG Websocket Stream</CardTitle>
       </CardHeader>
       <CardContent className="space-y-4">
         <div className="flex items-center justify-between">
